@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leptospirosis Risk Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        input[type="number"], select {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            box-sizing: border-box;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .results {
+            margin-top: 20px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .recommendations {
+            margin-top: 10px;
+        }
+        .plot {
+            margin-top: 20px;
+        }
+        .error {
+            color: red;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Leptospirosis Risk Dashboard</h1>
+
+    <form method="POST">
+        <label for="year">Select Year:</label>
+        <input type="number" id="year" name="year" required min="2024">
+
+        <label for="country">Select Country:</label>
+        <select id="country" name="country" required>
+            <option value="Netherlands">Netherlands</option>
+            <option value="Italy">Italy</option>
+        </select>
+
+        <button type="submit">Predict Leptospirosis Risk</button>
+    </form>
+
+    {% if error %}
+    <div class="error">
+        Error: {{ error }}
+    </div>
+    {% endif %}
+
+    {% if recommendations %}
+    <div class="results">
+        <h2>Prediction Results</h2>
+        
+        <!-- Display Country-Specific Recommendations Once -->
+        <h3>Country-Specific Recommendations</h3>
+        <ul>
+            {% for rec in country_specific_recommendations %}
+            <li>{{ rec }}</li>
+            {% endfor %}
+        </ul>
+
+        <!-- Monthly Predictions -->
+        <h3>Monthly Predictions</h3>
+        <ul>
+            {% for rec in recommendations %}
+            <li>
+                <strong>{{ rec.Year }} - {{ rec.Month }}</strong><br>
+                Predicted Rate: {{ rec.Predicted_Rate|round(2) }}<br>
+                Risk Percentage: {{ rec.Risk_Percentage|round(1) }}%<br>
+                Risk Level: {{ rec.Risk_Level }}<br>
+                Primary Contributing Factor: {{ rec.Primary_Factor }}
+                <div class="recommendations">
+                    <h4>General Recommendations</h4>
+                    <ul>
+                        {% for gen_rec in rec.General_Recommendations %}
+                        <li>{{ gen_rec }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="plot">
+        <h2>Risk Pie Chart</h2>
+        {{ pie_chart_html|safe }}
+    </div>
+    {% endif %}
+</body>
+</html>
