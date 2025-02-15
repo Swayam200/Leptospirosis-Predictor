@@ -1,0 +1,112 @@
+/* frontend/src/components/LandingPage.css */
+
+.landing-container {
+  background-color: #f1f9ff;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.top-nav {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
+}
+
+.about-link {
+  background: none;
+  border: none;
+  color: #095d7e;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.8rem 1.5rem;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.about-link:hover {
+  background-color: #ccecee;
+  color: #095d7e;
+}
+
+.hero-content {
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+  padding: 4rem 2rem;
+}
+
+.hero-title {
+  color: #095d7e;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.hero-description {
+  color: #14967f;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  line-height: 1.6;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cta-button {
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  min-width: 250px;
+}
+
+.cta-button.primary {
+  background-color: #14967f;
+  color: white;
+}
+
+.cta-button.primary:hover {
+  background-color: #0d7a6a;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(9, 93, 126, 0.1);
+}
+
+.cta-button.secondary {
+  background-color: #095d7e;
+  color: white;
+}
+
+.cta-button.secondary:hover {
+  background-color: #07455e;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(9, 93, 126, 0.1);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-description {
+    font-size: 1rem;
+  }
+  
+  .cta-button {
+    width: 100%;
+    min-width: auto;
+  }
+}

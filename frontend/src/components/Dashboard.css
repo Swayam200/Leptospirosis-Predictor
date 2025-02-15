@@ -1,0 +1,130 @@
+/* frontend/src/components/Dashboard.css */
+
+.dashboard-container {
+  background-color: #f1f9ff;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  cursor: pointer;
+  padding: 1rem;
+  background-color: #095d7e;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.dashboard-header:hover {
+  background-color: #0a6b8a;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
+}
+
+.title {
+  color: #e2fcd6;
+  margin: 0;
+  font-size: 2rem;
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.tabs button {
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #ccecee;
+  color: #095d7e;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.tabs button.active {
+  background-color: #14967f;
+  color: white;
+}
+
+.tabs button:hover:not(.active) {
+  background-color: #b2e4e6;
+}
+
+.tab-content {
+  background-color: white;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 8px rgba(9, 93, 126, 0.1);
+}
+
+/* DataTable Styles */
+.data-table-container {
+  overflow-x: auto;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 300px;
+  padding: 0.8rem;
+  margin-bottom: 1.5rem;
+  border: 2px solid #14967f;
+  border-radius: 5px;
+  font-size: 1rem;
+  color: #095d7e;
+}
+
+.search-input:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(20, 150, 127, 0.2);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+th {
+  background-color: #095d7e;
+  color: white;
+  padding: 1rem;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  position: relative;
+}
+
+th:hover {
+  background-color: #0a6b8a;
+}
+
+td {
+  padding: 1rem;
+  border-bottom: 1px solid #ccecee;
+  color: #095d7e;
+}
+
+tr:nth-child(even) {
+  background-color: #f1f9ff;
+}
+
+tr:hover {
+  background-color: #e2fcd6;
+}
+
+.sort-indicator {
+  margin-left: 0.5rem;
+  font-size: 0.8em;
+  position: absolute;
+  right: 8px;
+}
