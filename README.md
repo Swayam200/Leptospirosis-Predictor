@@ -1,6 +1,8 @@
 # 🦠 Leptospirosis-Predictor
 A Python, Javascript, HTML and CSS based web-application that predicts and performs risk analysis across various european nations based on various factors such as temperature, dew point humidity etc. The project uses **Scikit-Learn** and **Joblib** along with NumPy, Pandas modules of python for the training of the model and the predictions along with ... for the web-application.
 
+---
+
 ## 📚 Features
 - Description of features in the Application will be added here
 
@@ -26,6 +28,8 @@ Google Drive Link for Data Download Step 1 - https://drive.google.com/drive/fold
 3. Download health_data_cleaned.csv and run the making_ml_data.ipynb
 4. Your final output would be ml_data.csv, I have also attached the ml_data.csv in case you do not wish to perform the EDA process. You can verify the contents of both the files to be sure of the validity of the data.
 
+---
+
 ###  🔧 How to run
 1. **Clone the Repository**:
 
@@ -41,6 +45,7 @@ cd Leptospirosis-Predictor
 
 3. **Access the Website**:
 
+---
 
 ### Application Workflow:
 - To be added
