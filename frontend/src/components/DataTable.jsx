@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './DataTable.css';
 
 const DataTable = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -83,128 +84,137 @@ const DataTable = ({ data }) => {
   }
 
   return (
-    <div className="w-full max-w-[95vw] mx-auto p-6 bg-white rounded-lg shadow">
-      <h2 className="text-xl font-bold mb-6">Data Table</h2>
+    <div className="data-table-container">
+      <h2 className="table-title">Data Table</h2>
       
-      <div className="space-y-6">
-      <div className="flex flex-wrap gap-4 items-center">
-    <div className="flex-grow max-w-md">
-      <input
-        type="text"
-        placeholder="Search by country name..."
-        value={searchQuery}
-        onChange={(e) => setSearchQuery(e.target.value)}
-        className="w-full p-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-      />
-    </div>
-    <button
-      onClick={resetFilters}
-      className="px-4 py-2.5 bg-red-100 text-red-700 rounded-lg hover:bg-red-200 focus:ring-2 focus:ring-red-500 focus:outline-none transition-colors"
-    >
-      Reset Filters
-    </button>
-  </div>
+      <div className="search-reset-container">
+        <input
+          type="text"
+          placeholder="Search by country name..."
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          className="search-input"
+        />
+        <button onClick={resetFilters} className="reset-button">
+          Reset Filters
+        </button>
+      </div>
 
-        {/* Filters Section */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
-    {/* Year Filter */}
-    <div className="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
-      <label className="block text-sm font-semibold text-gray-800 mb-2">Year</label>
-      <input
-        type="number"
-        value={filters.year}
-        onChange={(e) => handleFilterChange('year', e.target.value)}
-        placeholder="Filter by year"
-        className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-      />
-    </div>
-
-          {/* Country Code Filter */}
-          <div className="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
-      <label className="block text-sm font-semibold text-gray-800 mb-2">Country Code</label>
-      <input
-        type="text"
-        value={filters.country_code}
-        onChange={(e) => handleFilterChange('country_code', e.target.value)}
-        placeholder="Filter by code"
-        className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-      />
-    </div>
-
-          {/* Range Filters */}
-          {['leptospirosis_rate', 'temperature_celsius', 'relative_humidity'].map((field) => (
-      <div key={field} className="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
-        <label className="block text-sm font-semibold text-gray-800 mb-2">
-          {field.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
-        </label>
-        <div className="flex gap-2">
+      <div className="filters-section">
+        {/* Year Filter */}
+        <div className="filter-card filter-year">
+          <label>Year</label>
           <input
             type="number"
-            value={filters[field].min}
-            onChange={(e) => handleFilterChange(field, e.target.value, 'min')}
-            placeholder="Min"
-            className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-          />
-          <input
-            type="number"
-            value={filters[field].max}
-            onChange={(e) => handleFilterChange(field, e.target.value, 'max')}
-            placeholder="Max"
-            className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
+            value={filters.year}
+            onChange={(e) => handleFilterChange('year', e.target.value)}
+            placeholder="Filter by year"
           />
         </div>
-      </div>
-    ))}
-  </div>
 
+        {/* Country Code Filter */}
+        <div className="filter-card filter-country">
+          <label>Country Code</label>
+          <input
+            type="text"
+            value={filters.country_code}
+            onChange={(e) => handleFilterChange('country_code', e.target.value)}
+            placeholder="Filter by code"
+          />
+        </div>
 
-        {/* Table Section */}
-        <div className="border rounded shadow">
-          <div className="max-w-full overflow-x-auto">
-            <table className="w-full">
-              <thead>
-                <tr className="bg-gray-100">
-                  {[
-                    'year', 'country_code', 'country_name', 't2m', 'd2m', 'tp',
-                    'leptospirosis_rate', 'temperature_celsius', 'dew_point_celsius', 'relative_humidity'
-                  ].map((column) => (
-                    <th
-                      key={column}
-                      onClick={() => handleSort(column)}
-                      className="p-3 text-left text-sm font-medium text-gray-700 cursor-pointer hover:bg-gray-200 whitespace-nowrap"
-                    >
-                      {column.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
-                      {sortConfig.key === column && (
-                        <span className="ml-1">
-                          {sortConfig.direction === 'ascending' ? '↑' : '↓'}
-                        </span>
-                      )}
-                    </th>
-                  ))}
-                </tr>
-              </thead>
-              <tbody>
-                {sortedData.map((row, index) => (
-                  <tr 
-                    key={`${row.id}-${index}`}
-                    className="border-t hover:bg-gray-50"
-                  >
-                    <td className="p-3 whitespace-nowrap">{row.year}</td>
-                    <td className="p-3 whitespace-nowrap">{row.country_code}</td>
-                    <td className="p-3 whitespace-nowrap">{row.country_name}</td>
-                    <td className="p-3 whitespace-nowrap">{row.t2m}</td>
-                    <td className="p-3 whitespace-nowrap">{row.d2m}</td>
-                    <td className="p-3 whitespace-nowrap">{row.tp}</td>
-                    <td className="p-3 whitespace-nowrap">{row.leptospirosis_rate}</td>
-                    <td className="p-3 whitespace-nowrap">{row.temperature_celsius}</td>
-                    <td className="p-3 whitespace-nowrap">{row.dew_point_celsius}</td>
-                    <td className="p-3 whitespace-nowrap">{row.relative_humidity}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+        {/* Range Filters */}
+        <div className="filter-card filter-leptospirosis">
+          <label>Leptospirosis Rate</label>
+          <div className="range-inputs">
+            <input
+              type="number"
+              value={filters.leptospirosis_rate.min}
+              onChange={(e) => handleFilterChange('leptospirosis_rate', e.target.value, 'min')}
+              placeholder="Min"
+            />
+            <input
+              type="number"
+              value={filters.leptospirosis_rate.max}
+              onChange={(e) => handleFilterChange('leptospirosis_rate', e.target.value, 'max')}
+              placeholder="Max"
+            />
           </div>
         </div>
+
+        <div className="filter-card filter-temperature">
+          <label>Temperature Celsius</label>
+          <div className="range-inputs">
+            <input
+              type="number"
+              value={filters.temperature_celsius.min}
+              onChange={(e) => handleFilterChange('temperature_celsius', e.target.value, 'min')}
+              placeholder="Min"
+            />
+            <input
+              type="number"
+              value={filters.temperature_celsius.max}
+              onChange={(e) => handleFilterChange('temperature_celsius', e.target.value, 'max')}
+              placeholder="Max"
+            />
+          </div>
+        </div>
+
+        <div className="filter-card filter-humidity">
+          <label>Relative Humidity</label>
+          <div className="range-inputs">
+            <input
+              type="number"
+              value={filters.relative_humidity.min}
+              onChange={(e) => handleFilterChange('relative_humidity', e.target.value, 'min')}
+              placeholder="Min"
+            />
+            <input
+              type="number"
+              value={filters.relative_humidity.max}
+              onChange={(e) => handleFilterChange('relative_humidity', e.target.value, 'max')}
+              placeholder="Max"
+            />
+          </div>
+        </div>
+      </div>
+
+      <div className="table-container">
+        <table className="data-table">
+          <thead>
+            <tr>
+              {[
+                'year', 'country_code', 'country_name', 't2m', 'd2m', 'tp',
+                'leptospirosis_rate', 'temperature_celsius', 'dew_point_celsius', 'relative_humidity'
+              ].map((column) => (
+                <th key={column} onClick={() => handleSort(column)}>
+                  {column.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
+                  {sortConfig.key === column && (
+                    <span className="sort-indicator">
+                      {sortConfig.direction === 'ascending' ? '↑' : '↓'}
+                    </span>
+                  )}
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {sortedData.map((row, index) => (
+              <tr key={`${row.id}-${index}`}>
+                <td>{row.year}</td>
+                <td>{row.country_code}</td>
+                <td>{row.country_name}</td>
+                <td>{row.t2m}</td>
+                <td>{row.d2m}</td>
+                <td>{row.tp}</td>
+                <td>{row.leptospirosis_rate}</td>
+                <td>{row.temperature_celsius}</td>
+                <td>{row.dew_point_celsius}</td>
+                <td>{row.relative_humidity}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
     </div>
   );

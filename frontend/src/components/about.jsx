@@ -2,44 +2,57 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import './about.css';
-
+import abhinav from './img/ab.jpg';
+import tanq from './img/me.jpg';
+import vand from './img/vad.jpg';
+import aand from './img/and.jpg';
+import patil from './img/ma.jpg';
+import panda from './img/sw.jpg';
 const AboutPage = () => {
   const teamMembers = [
     {
       id: 1,
       name: 'Abhinav Nath',
       role: 'Team Member',
-      bio: 'Pura Website banaya he madachodo',
-      image: 'C:/Leptospirosis_app/frontend/src/components/team/Abhinav_Nath.jpg'
+      image: abhinav
     },
     {
       id: 2,
-      name: 'Michael Rodriguez',
-      role: 'Data Science Lead',
-      bio: 'PhD in Biostatistics, specializing in predictive disease modeling',
-      image: '/team/michael-rodriguez.jpg'
+      name: 'Tanishq Panwar',
+      role: 'Team Member',
+      image: tanq
     },
     {
       id: 3,
-      name: 'Priya Patel',
-      role: 'GIS Specialist',
-      bio: 'MSc in Geospatial Analysis, disease mapping expert',
-      image: '/team/priya-patel.jpg'
+      name: 'Vandit A. Pareekh',
+      role: 'Team Member',
+      image: vand
     },
     {
       id: 4,
-      name: 'James Kim',
-      role: 'Frontend Developer',
-      bio: 'Specializing in health data visualization interfaces',
-      image: '/team/james-kim.jpg'
+      name: 'Aadvik Bannerjee',
+      role: 'Team Member',
+      image: aand
+    },
+    {
+      id: 5,
+      name: 'Madhuram S. Patil',
+      role: 'Team Member',
+      image: patil
+    },
+    {
+      id: 6,
+      name: 'Swayam Prakash Panda',
+      role: 'Team Member',
+      image: panda
     }
   ];
 
   return (
     <div className="about-container">
       <section className="about-header">
-        <h1>Our Expert Team</h1>
-        <p>Combining medical expertise with advanced data analysis to combat infectious diseases</p>
+        <h1>Our Team</h1>
+        
       </section>
 
       <div className="team-grid">

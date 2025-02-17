@@ -14,7 +14,7 @@ const pool = new Pool({
   user: process.env.PG_USER || 'postgres',           // your PostgreSQL user
   host: process.env.PG_HOST || 'localhost',
   database: process.env.PG_DATABASE || 'lepto_db',     // your database name
-  password: process.env.PG_PASSWORD || '123#Nath',      // your database password
+  password: process.env.PG_PASSWORD || '1234',      // your database password
   port: process.env.PG_PORT || 5432,
 });
 
