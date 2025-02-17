@@ -14,14 +14,11 @@
   margin-bottom: 2rem;
   cursor: pointer;
   padding: 1rem;
-  background-color: #095d7e;
+  background-color: #ffffff;
   border-radius: 8px;
   transition: background-color 0.3s ease;
 }
 
-.dashboard-header:hover {
-  background-color: #0a6b8a;
-}
 
 .logo {
   height: 50px;
@@ -29,7 +26,7 @@
 }
 
 .title {
-  color: #e2fcd6;
+  color: #25708d;
   margin: 0;
   font-size: 2rem;
 }

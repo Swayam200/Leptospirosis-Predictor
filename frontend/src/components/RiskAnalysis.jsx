@@ -10,6 +10,7 @@ import {
   CartesianGrid,
   ResponsiveContainer,
 } from "recharts";
+import logo from "./img/biobites.jpg";
 
 const MedicalRiskAnalysisDashboard = () => {
   const navigate = useNavigate();
@@ -310,8 +311,8 @@ const MedicalRiskAnalysisDashboard = () => {
       {/* Header */}
       <div style={styles.headerContainer} onClick={() => navigate("/")}>
         <div style={styles.headerContent}>
-          <img src="/logo-placeholder.png" alt="BioBytes Logo" style={styles.logo} />
-          <h1 style={styles.brandTitle}>BioBytes Analytics</h1>
+          <img src={logo} alt="BioBytes Logo" style={styles.logo} />
+          <h1 style={styles.brandTitle}>Biobytes</h1>
         </div>
       </div>
 
@@ -369,8 +370,8 @@ const MedicalRiskAnalysisDashboard = () => {
                       dataKey="year"
                       label={{
                         value: "Year",
-                        position: "bottom",
-                        offset: 0,
+                        position: "left",
+                        offset: 30,
                         style: styles.axisLabel,
                       }}
                       tick={styles.axisTick}

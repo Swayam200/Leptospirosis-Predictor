@@ -1,90 +1,162 @@
-/* frontend/src/components/DataTable.css */
-
 .data-table-container {
-    @apply w-full max-w-[95vw] mx-auto p-6 bg-white rounded-lg shadow;
-  }
+  width: 100%;
+  max-width: 85vw;
+  margin: 0 auto;
+  padding: 24px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.table-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.search-section {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
   
-  .data-table-title {
-    @apply text-xl font-bold mb-6 text-teal-700; /* Title color in teal */
-  }
-  
-  .filter-section {
-    @apply space-y-6 mb-6 p-4 rounded-lg bg-gray-50 border border-gray-200; /* Light background for filter section */
-  }
-  
-  .search-reset-section {
-    @apply flex flex-wrap gap-4 items-center justify-between mb-4; /* Ensure reset button is on the right */
-  }
-  
-  .search-input-wrapper {
-    @apply flex-grow max-w-md;
-  }
-  
-  .search-input {
-    @apply w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:border-teal-500 text-sm; /* Styled search input */
-  }
-  
-  .reset-filters-button {
-    @apply px-4 py-2 bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 text-sm border border-gray-300; /* Styled reset button */
-  }
-  
-  .filters-grid {
-    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4;
-  }
-  
-  .filter-item {
-    @apply bg-white p-4 rounded-md shadow-sm border border-gray-200; /* White background for each filter item */
-  }
-  
-  .filter-label {
-    @apply block text-sm font-medium text-gray-700 mb-2; /* Label text style */
-  }
-  
-  .filter-input {
-    @apply w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:border-teal-500 text-sm; /* Styled filter input */
-  }
-  
-  .range-filter {
-    @apply md:col-span-1 lg:col-span-1; /* Adjust column span for range filters if needed */
-  }
-  
-  .range-inputs {
-    @apply flex gap-2;
-  }
-  
-  .range-input {
-    @apply w-1/2 p-2 border border-gray-300 rounded-md focus:outline-none focus:border-teal-500 text-sm; /* Styled range input */
-  }
-  
-  
-  .table-wrapper {
-    @apply border rounded-lg shadow-md overflow-hidden; /* Rounded corners and shadow for table wrapper */
-  }
-  
-  .table-container-overflow {
-    @apply max-w-full overflow-x-auto;
-  }
-  
-  .data-table {
-    @apply w-full min-w-[800px] ; /* Ensure table is full width and set min width for horizontal scroll */
-  }
-  
-  .table-header-row {
-    @apply bg-teal-500 text-white; /* Teal header row */
-  }
-  
-  .table-header-cell {
-    @apply p-3 text-left text-sm font-medium whitespace-nowrap cursor-pointer hover:bg-teal-600 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-opacity-50; /* Header cell styling with hover and focus */
-  }
-  
-  .sort-icon {
-    @apply ml-1 inline-block;
-  }
-  
-  .table-row {
-    @apply border-t hover:bg-gray-50; /* Row border and hover effect */
-  }
-  
-  .table-cell {
-    @apply p-3 whitespace-nowrap text-sm text-gray-700; /* Cell padding and text style */
-  }
+}
+
+.search-input {
+  flex: 1;
+  max-width: 400px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 14px;;
+}
+
+.reset-button {
+  padding: 10px 24px;
+  background: #5BA4CF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  height: 40px; /* Match the height of the search input */
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.reset-button:hover {
+  background: #64aec3;
+}
+
+.filters-section {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.filter-card {
+  flex: 1;
+  min-width: 200px;
+  padding: 16px;
+  padding-right: 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.filter-card label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.filter-card input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.filter-card input:focus {
+  outline: none;
+  border-color: #4a90e2;
+  box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+}
+
+.range-inputs {
+  display: flex;
+  gap: 8px;
+}
+
+.range-inputs input {
+  width: 50%;
+}
+
+/* Filter card themes */
+.filter-year {
+  background-color: #e3f2fd;
+  border: 1px solid #bbdefb;
+}
+
+.filter-country {
+  background-color: #f3e5f5;
+  border: 1px solid #e1bee7;
+}
+
+.filter-leptospirosis {
+  background-color: #e8f5e9;
+  border: 1px solid #c8e6c9;
+}
+
+.filter-temperature {
+  background-color: #fff8e1;
+  border: 1px solid #ffe082;
+}
+
+.filter-humidity {
+  background-color: #fff3e0;
+  border: 1px solid #ffcc80;
+}
+
+/* Table styles */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.data-table th {
+  background: #f5f5f5;
+  padding: 12px;
+  text-align: left;
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.data-table th:hover {
+  background: #eee;
+}
+
+.data-table td {
+  padding: 12px;
+  border-top: 1px solid #ddd;
+  white-space: nowrap;
+}
+
+.data-table tr:hover {
+  background: #f9f9f9;
+}
+
+.sort-indicator {
+  margin-left: 4px;
+}
