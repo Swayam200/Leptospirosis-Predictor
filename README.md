@@ -40,5 +40,19 @@ cd Leptospirosis-Predictor
 
 ---
 
-### Application Workflow:
-- To be added
+## 🔄 Application Workflow
+Our application follows a structured pipeline, ensuring seamless data processing, model training, and deployment.
+
+### 📌 Step 1: Data Collection
+Health-related data was sourced from the European Centre for Disease Prevention and Control (ECDC).
+Weather data corresponding to the health records was collected from ERA5 Monthly, a climate reanalysis dataset by ECMWF.
+### 🛠️ Step 2: Data Processing
+The collected datasets were merged and preprocessed to create a unified dataset for analysis.
+A final combined processed file was generated for training the model.
+### 🧠 Step 3: Model Training
+A machine learning model was trained using the processed dataset.
+The trained model was saved as Trainedmodel.pkl for future predictions.
+### 🌐 Step 4: Web Application Development
+A web-based interface was built to allow users to interact with the model effortlessly.
+The website loads the trained model and provides predictions based on user inputs.
+This structured workflow ensures efficiency and accuracy, making the application user-friendly and data-driven. 🚀
