@@ -6,7 +6,7 @@ A Python, Javascript, HTML and CSS based web-application that predicts and perfo
 ## 📚 Features
 - Description of features in the Application will be added here
 
-### Prerequisites:
+### ⚙️Prerequisites:
 
 - Python 3.x
 - HTML
