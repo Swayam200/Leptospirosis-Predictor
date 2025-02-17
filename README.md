@@ -23,7 +23,7 @@ A Python, Javascript, HTML and CSS based web-application that predicts and perfo
 
 ---
 
-###  🔧 How to run
+##  🔧 How to run
 1. **Clone the Repository**:
 
 ```bash
