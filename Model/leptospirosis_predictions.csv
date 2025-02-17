@@ -1,0 +1,703 @@
+Year,Country,Prediction,Risk Percentage,Risk Level,Primary Factor,Recommendation,Color Indicator
+2024,Austria,1.7814597569999995,22.9334311324981,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Austria,1.9983594939999991,25.725666635770512,Moderate,TP,Stay cautious!,🟡
+2026,Austria,1.9908392339999992,25.6288553751564,Moderate,TP,Stay cautious!,🟡
+2027,Austria,1.6431240389999988,21.152581102374352,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Austria,1.6900692239999993,21.75692490692536,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Austria,1.7283153209999993,22.249281935025405,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Austria,1.4589378509999997,18.781479963851506,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Austria,1.1124108050000001,14.320501199800207,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Austria,1.5343462619999997,19.752242055829324,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Austria,1.1902199059999998,15.322168317035615,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Austria,1.5462754619999997,19.905811332705106,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Austria,1.813054889,23.340167675940656,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Austria,1.7916529899999998,23.064652624369845,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Austria,1.6753672559999995,21.567660698561777,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Austria,1.6136994279999999,20.773786528251943,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Austria,1.4983079390000003,19.288306569549793,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Austria,1.4069527990000004,18.112255971966903,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Austria,1.7026712679999993,21.919155968877277,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Austria,1.5185397569999994,19.54875870885019,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Austria,1.2021460490000002,15.475698239949745,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Austria,1.30037055,16.740180819674663,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Austria,1.3037239690000002,16.783350699540165,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Austria,1.2209926820000003,15.71831834870417,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Austria,1.2447415210000004,16.024046480671892,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Austria,1.3164228680000003,16.946828613947552,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Austria,1.5269352980000002,19.65683780554998,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Austria,1.6133260120000004,20.768979397422235,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Belgium,1.2503265160000012,16.095944314852307,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Belgium,1.4773110560000005,19.01800544801982,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Belgium,1.2784221150000012,16.457629995520072,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Belgium,1.2879097540000013,16.579768098702893,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Belgium,0.9756722810000005,12.560212475347457,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Belgium,1.0307522540000003,13.269278600816692,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Belgium,0.7986803610000005,10.281725974387104,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Belgium,0.7932032819999999,10.211217385259449,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Belgium,0.8609321229999998,11.083117356423047,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Belgium,0.8784343950000004,11.308430978017398,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Belgium,1.181407981000001,15.208728945566161,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Belgium,1.1665248280000007,15.017132271535907,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Belgium,1.3195465470000018,16.9870409605611,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Belgium,1.1648065300000014,14.995011946508496,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Belgium,0.9433045260000006,12.143529652572884,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Belgium,0.6133481499999998,7.895871631676782,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Belgium,1.026302594000001,13.21199638000197,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Belgium,0.86866133,11.182618473833541,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Belgium,0.9064390980000008,11.66894651877714,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Belgium,0.8699836730000008,11.199641514631908,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Belgium,1.1049517400000004,14.224477726455856,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Belgium,1.1085245000000004,14.27047126916205,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Belgium,0.8348423230000008,10.747253114073718,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Belgium,0.9248510200000004,11.905970422092807,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Belgium,0.9093948190000007,11.70699667609,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Belgium,0.9515540190000007,12.2497286160073,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Belgium,0.8041860390000006,10.352602729674208,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Bulgaria,1.0019886849999997,12.89899387998908,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Bulgaria,1.163639028,14.979982234717996,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Bulgaria,1.104151733,14.21417892213657,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Bulgaria,0.9593230459999988,12.349742351917348,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Bulgaria,1.1071418749999997,14.252672194501512,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Bulgaria,1.5029317719999993,19.347830987801164,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Bulgaria,1.3925248319999997,17.926519086092096,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Bulgaria,1.3878857740000001,17.866798670435998,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Bulgaria,1.3495750019999995,17.373609055659394,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Bulgaria,1.3883910359999998,17.873303106607136,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Bulgaria,1.4479418179999997,18.639923712274516,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Bulgaria,1.2254832779999998,15.77612755472479,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Bulgaria,1.334213142,17.17584979840267,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Bulgaria,1.383962615999999,17.816294316654552,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Bulgaria,1.2301081279999988,15.835665065216592,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Bulgaria,1.3895588619999992,17.888336989376867,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Bulgaria,1.4133254299999993,18.194293353724778,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Bulgaria,1.3164837939999992,16.947612938274645,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Bulgaria,1.5070242599999992,19.40051519317812,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Bulgaria,1.4751763539999994,18.990524590754834,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Bulgaria,1.3159892809999996,16.94124687820225,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Bulgaria,1.1178264799999997,14.390219311119,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Bulgaria,1.2347814510000001,15.89582658767553,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Bulgaria,1.1052473670000003,14.228283448936402,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Bulgaria,1.1407677140000005,14.685550826729287,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Bulgaria,0.9168826520000001,11.803390491197174,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Bulgaria,1.3441806209999994,17.304165070365958,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Cyprus,1.6401809920000008,21.11469410244132,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Cyprus,2.417523097000001,31.121724326592837,Moderate,TP,Stay cautious!,🟡
+2026,Cyprus,2.2750663800000006,29.28782305779124,Moderate,TP,Stay cautious!,🟡
+2027,Cyprus,2.367568136000001,30.478634493483497,Moderate,TP,Stay cautious!,🟡
+2028,Cyprus,2.2172781000000006,28.543891832604707,Moderate,TP,Stay cautious!,🟡
+2029,Cyprus,2.350994353000001,30.265273675456626,Moderate,TP,Stay cautious!,🟡
+2030,Cyprus,2.2427569580000006,28.871891178636353,Moderate,TP,Stay cautious!,🟡
+2031,Cyprus,2.6395664420000005,33.980175515836855,Moderate,TP,Stay cautious!,🟡
+2032,Cyprus,2.565259191000001,33.02358908902725,Moderate,TP,Stay cautious!,🟡
+2033,Cyprus,2.2018302650000003,28.345025785405696,Moderate,TP,Stay cautious!,🟡
+2034,Cyprus,2.3107314190000006,29.746953112528907,Moderate,TP,Stay cautious!,🟡
+2035,Cyprus,2.131348963,27.437692302741002,Moderate,TP,Stay cautious!,🟡
+2036,Cyprus,2.1649422540000005,27.870151931781322,Moderate,TP,Stay cautious!,🟡
+2037,Cyprus,2.1023669050000007,27.06459488720334,Moderate,TP,Stay cautious!,🟡
+2038,Cyprus,1.8650540840000005,24.00957373621904,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Cyprus,2.0326949910000005,26.16768097415538,Moderate,TP,Stay cautious!,🟡
+2040,Cyprus,2.35432838,30.308193914489777,Moderate,TP,Stay cautious!,🟡
+2041,Cyprus,2.0781337240000006,26.75263163044095,Moderate,TP,Stay cautious!,🟡
+2042,Cyprus,2.3117968130000004,29.760668347931762,Moderate,TP,Stay cautious!,🟡
+2043,Cyprus,2.367590926,30.478927878104418,Moderate,TP,Stay cautious!,🟡
+2044,Cyprus,2.199763186,28.318415465579122,Moderate,TP,Stay cautious!,🟡
+2045,Cyprus,2.334404716,30.05170876266098,Moderate,TP,Stay cautious!,🟡
+2046,Cyprus,2.452246212000001,31.568728623731335,Moderate,TP,Stay cautious!,🟡
+2047,Cyprus,2.3329843320000005,30.033423601563353,Moderate,TP,Stay cautious!,🟡
+2048,Cyprus,2.3186130920000005,29.848416984639474,Moderate,TP,Stay cautious!,🟡
+2049,Cyprus,2.444180469000001,31.464895146216005,Moderate,TP,Stay cautious!,🟡
+2050,Cyprus,2.426326476000001,31.23505368204781,Moderate,TP,Stay cautious!,🟡
+2024,Czechia,1.9415052960000012,24.993760215037167,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Czechia,2.639637609000001,33.98109167657919,Moderate,TP,Stay cautious!,🟡
+2026,Czechia,3.2053433589999996,41.26364398117394,Moderate,TP,Stay cautious!,🟡
+2027,Czechia,1.8770552349999996,24.164069266577062,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Czechia,0.9203751009999996,11.848350158857661,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Czechia,0.7261743340000001,9.348327411572665,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Czechia,0.7239805270000003,9.3200856724288,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Czechia,1.0726694770000003,13.808895475774852,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Czechia,1.140878174,14.686972821693212,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Czechia,1.5886904660000005,20.45183633798321,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Czechia,2.8530375860000006,36.72827339481666,Moderate,TP,Stay cautious!,🟡
+2035,Czechia,1.136005226,14.624241448205192,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Czechia,0.9528785339999996,12.26677961781471,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Czechia,2.322614007,29.899922334821493,Moderate,TP,Stay cautious!,🟡
+2038,Czechia,1.910976713,24.600753775766094,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Czechia,1.6829173319999997,21.664855792254333,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Czechia,1.8478881179999995,23.78858951384919,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Czechia,1.4935355180000003,19.22686931961545,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Czechia,2.3588568539999994,30.36649073888124,Moderate,TP,Stay cautious!,🟡
+2043,Czechia,0.9500482449999997,12.230344195902138,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Czechia,2.3158405339999995,29.812724756564137,Moderate,TP,Stay cautious!,🟡
+2045,Czechia,1.3239784430000001,17.044094498426873,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Czechia,0.8897788249999995,11.454472281010709,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Czechia,1.223255477999999,15.747448210340925,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Czechia,0.9287968529999995,11.956766680054988,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Czechia,1.5971951969999996,20.5613210804381,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Czechia,2.1834921339999984,28.108951822614927,Moderate,TP,Stay cautious!,🟡
+2024,Germany,1.1048347109999994,14.222971166174894,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Germany,1.1790269279999999,15.178076715122115,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Germany,1.260859198,16.23153566702197,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Germany,1.2381724879999998,15.939480738829753,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Germany,1.2316008540000005,15.854881513293071,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Germany,1.1384359660000003,14.655533318915136,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Germany,1.183983317,15.241882257375167,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Germany,1.224351,15.761551295320778,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Germany,1.1612558459999998,14.949302596820782,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Germany,1.1614409399999999,14.951685384579733,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Germany,1.2921876419999998,16.634839031096966,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Germany,1.1750512359999996,15.12689607052559,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Germany,1.1336613229999997,14.594067464302077,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Germany,1.2466531039999997,16.048655039418325,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Germany,1.3328844569999996,17.15874511454744,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Germany,1.255373047,16.160910290475233,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Germany,1.1372256639999996,14.639952625914649,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Germany,0.8109566829999999,10.439763889103444,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Germany,0.7033896009999995,9.055010594802232,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Germany,0.7823647009999998,10.071688075118818,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Germany,0.8839894260000003,11.379943073857232,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Germany,1.0097198619999999,12.998520357983304,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Germany,1.0968570169999996,14.120271178018417,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Germany,1.0484665729999996,13.49732198672495,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Germany,1.048014269,13.491499299687435,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Germany,1.2078147460000004,15.548673602850688,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Germany,1.188128821,15.295248958542526,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Denmark,1.8508131300000006,23.82624434214389,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Denmark,2.2866266700000017,29.436643211345086,Moderate,TP,Stay cautious!,🟡
+2026,Denmark,1.9440819920000019,25.026931034660343,Moderate,TP,Stay cautious!,🟡
+2027,Denmark,2.2393430000000007,28.827941956446747,Moderate,TP,Stay cautious!,🟡
+2028,Denmark,1.7521749600000007,22.55643643891061,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Denmark,1.6542336760000003,21.29559982286212,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Denmark,1.5770714849999996,20.302260632135074,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Denmark,1.6272087850000003,20.947697786806323,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Denmark,1.7194279450000007,22.134871253199044,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Denmark,1.8598676210000005,23.942806361000834,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Denmark,1.6358718730000006,21.059221121118036,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Denmark,1.7399987080000006,22.399686764607445,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Denmark,1.6848359260000008,21.689554606357405,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Denmark,1.7211551500000002,22.157106241535747,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Denmark,1.7473348800000006,22.494128188095722,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Denmark,1.6414885900000005,21.13152732506347,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Denmark,1.6168099900000001,20.81383001457268,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Denmark,1.6430131900000007,21.151154099660666,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Denmark,1.5364254300000006,19.779008002100944,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Denmark,1.6718093200000006,21.521857991029826,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Denmark,1.5822698300000004,20.369180969006024,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Denmark,1.4705119790000005,18.93047825941432,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Denmark,1.4912332150000005,19.19723086885103,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Denmark,1.503444858,19.354436145397244,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Denmark,1.4884947800000001,19.161977919556744,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Denmark,1.49319197,19.22244669128059,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Denmark,1.6021333800000006,20.624892249702633,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Estonia,1.7420416949999995,22.4259869386557,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Estonia,1.7890776149999998,23.031498810498505,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Estonia,1.63547723,21.05414072678026,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Estonia,1.4993337119999994,19.30151174825822,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Estonia,1.4465205199999993,18.621626784895895,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Estonia,1.4965087899999998,19.26514541784458,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Estonia,1.4614569819999996,18.813909726620626,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Estonia,0.815726407,10.501166419497524,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Estonia,0.9620362870000005,12.384670968954532,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Estonia,1.0653535370000002,13.714714506768832,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Estonia,0.8495195940000003,10.93619938825638,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Estonia,1.6586996730000008,21.353092356294326,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Estonia,1.621479269999999,20.873939489904668,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Estonia,1.5355693299999993,19.767987090561732,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Estonia,1.74087946,22.411025031024874,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Estonia,1.6703185699999994,21.50266698077744,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Estonia,1.5969595519999995,20.5582875298019,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Estonia,1.6000124859999998,20.59758914824484,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Estonia,1.7860701220000001,22.99278217189584,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Estonia,1.6986748410000003,21.86770839448195,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Estonia,1.7818577550000005,22.93855471706858,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Estonia,1.5934258550000002,20.51279686043698,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Estonia,1.915569242000001,24.659875205330625,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Estonia,1.9085741050000005,24.569824059341197,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Estonia,1.9457177210000018,25.04798841652122,Moderate,TP,Stay cautious!,🟡
+2049,Estonia,1.8046718350000013,23.232249329296252,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Estonia,1.644904525,21.175501997950555,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Greece,2.3147197039999994,29.7982958717604,Moderate,TP,Stay cautious!,🟡
+2025,Greece,2.2656655459999997,29.166802429466678,Moderate,TP,Stay cautious!,🟡
+2026,Greece,2.318735207999999,29.849989031869363,Moderate,TP,Stay cautious!,🟡
+2027,Greece,2.273482807999999,29.26743711347637,Moderate,TP,Stay cautious!,🟡
+2028,Greece,2.1896717320000008,28.188504214748793,Moderate,TP,Stay cautious!,🟡
+2029,Greece,2.0636993479999997,26.566812238991954,Moderate,TP,Stay cautious!,🟡
+2030,Greece,2.059720007999999,26.515584632258648,Moderate,TP,Stay cautious!,🟡
+2031,Greece,2.156163399,27.757138283410317,Moderate,TP,Stay cautious!,🟡
+2032,Greece,2.3665477239999997,30.465498329033615,Moderate,TP,Stay cautious!,🟡
+2033,Greece,2.2949480749999998,29.54376792619941,Moderate,TP,Stay cautious!,🟡
+2034,Greece,1.9732936639999985,25.40298436140246,Moderate,TP,Stay cautious!,🟡
+2035,Greece,2.026774747999999,26.091467360799985,Moderate,TP,Stay cautious!,🟡
+2036,Greece,2.0485247559999995,26.371463756250023,Moderate,TP,Stay cautious!,🟡
+2037,Greece,2.251526454000001,28.984784344924545,Moderate,TP,Stay cautious!,🟡
+2038,Greece,2.015676494,25.948595178142007,Moderate,TP,Stay cautious!,🟡
+2039,Greece,1.248557798,16.073174913362067,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Greece,1.1742296360000004,15.116319291036518,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Greece,1.6885368619999988,21.73719820905358,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Greece,1.6453366049999991,21.18106433349295,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Greece,1.6166394839999996,20.811635023867264,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Greece,1.6318080460000004,21.00690588005088,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Greece,1.614981334,20.790289007667393,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Greece,2.235016782000001,28.77224885298072,Moderate,TP,Stay cautious!,🟡
+2047,Greece,2.1380639200000005,27.524136581547797,Moderate,TP,Stay cautious!,🟡
+2048,Greece,2.1152583900000006,27.23055203682821,Moderate,TP,Stay cautious!,🟡
+2049,Greece,2.131910548000001,27.444921807012406,Moderate,TP,Stay cautious!,🟡
+2050,Greece,2.154034942000001,27.729737820483123,Moderate,TP,Stay cautious!,🟡
+2024,Spain,2.4395190980000008,31.404887486547313,Moderate,TP,Stay cautious!,🟡
+2025,Spain,2.604102914000001,33.523639591347035,Moderate,TP,Stay cautious!,🟡
+2026,Spain,1.9042439480000024,24.51408024758112,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Spain,1.6559388060000018,21.317550631053734,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Spain,1.8827259160000016,24.23707017028926,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Spain,2.024429942000002,26.06128175222326,Moderate,TP,Stay cautious!,🟡
+2030,Spain,1.3592246120000007,17.497832275140457,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Spain,1.9996014960000021,25.741655415321425,Moderate,TP,Stay cautious!,🟡
+2032,Spain,1.9045005810000017,24.517383984984495,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Spain,1.5426999790000009,19.859782735750453,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Spain,2.012954136000002,25.913549194383105,Moderate,TP,Stay cautious!,🟡
+2035,Spain,1.9197457550000019,24.713641097533994,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Spain,1.457777973000001,18.76654839880742,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Spain,1.8175478340000017,23.398007121560894,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Spain,1.513559611000001,19.484647333405437,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Spain,1.4341464720000008,18.462330804999006,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Spain,1.5124756740000012,19.470693386680686,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Spain,1.4720300480000008,18.950020957883417,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Spain,1.367729368000001,17.607317339430182,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Spain,1.407672138000001,18.12151630543928,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Spain,1.5915824600000013,20.489066112595857,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Spain,1.999908549000002,25.74560822918761,Moderate,TP,Stay cautious!,🟡
+2046,Spain,2.3357903040000023,30.069545981184277,Moderate,TP,Stay cautious!,🟡
+2047,Spain,1.6068005240000016,20.68497422746772,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Spain,1.697686644000002,21.85498694637977,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Spain,1.840302564000002,23.690937697928437,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Spain,1.9001406990000016,24.461257511624694,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Finland,1.5450102870000006,19.88952423802389,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Finland,1.3362323379999999,17.201843701563856,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Finland,1.484772011,19.114053252076477,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Finland,1.4046836180000002,18.083043913717372,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Finland,1.3952975900000004,17.962213888845984,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Finland,1.5577432040000003,20.05344007950608,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Finland,1.4738058470000004,18.972881515867748,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Finland,1.8937231470000009,24.378641844190764,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Finland,1.750749733000001,22.538088931971856,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Finland,1.3664371880000004,17.590682598777548,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Finland,1.4144982420000003,18.209391423230812,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Finland,1.6349802220000003,21.047742547592936,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Finland,1.5332393120000005,19.73799185371707,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Finland,1.7245936740000007,22.20137171149183,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Finland,1.6549104840000006,21.304312638067145,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Finland,1.6968828310000013,21.844639145927648,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Finland,1.7402605910000009,22.40305808732281,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Finland,1.4641250579999998,18.848256916873925,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Finland,1.8268275680000006,23.517468782022572,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Finland,1.7581198990000007,22.632967973573507,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Finland,1.6155662090000014,20.79781833325611,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Finland,1.8852097490000004,24.269045528040827,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Finland,1.9427307290000007,25.009535695343445,Moderate,TP,Stay cautious!,🟡
+2047,Finland,1.8926469190000004,24.36478713845077,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Finland,1.6926333090000005,21.78993338019249,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Finland,1.587737529,20.439568805709605,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Finland,1.5350875790000003,19.76178532072771,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Hungary,0.9279160300000002,11.945427499626673,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Hungary,0.825198696,10.623106916101523,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Hungary,0.8451406080000002,10.879826981601349,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Hungary,0.7751041350000001,9.978219957363324,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Hungary,0.8226555290000002,10.590367728464104,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Hungary,0.8160997290000002,10.505972340228324,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Hungary,1.017379114,13.097120917203487,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Hungary,0.829870758,10.683252205212177,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Hungary,1.1216734050000001,14.4397422875504,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Hungary,0.4900136280000003,6.3081378894845015,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Hungary,0.4787863310000004,6.163604485604977,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Hungary,0.5929253550000007,7.632960970447848,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Hungary,0.48251584900000055,6.21161603561296,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Hungary,0.5376398690000004,6.9212491954129565,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Hungary,0.5006400340000005,6.4449357875169335,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Hungary,0.4843137200000004,6.234760735122224,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Hungary,0.48130910900000046,6.19608119763748,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Hungary,0.8606985240000004,11.080110144748433,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Hungary,0.8509170320000001,10.954189156483814,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Hungary,1.2089302589999997,15.563034039825125,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Hungary,0.8864721720000003,11.41190443823089,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Hungary,1.309606643,16.85908067240305,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Hungary,1.8913943669999993,24.348662544606295,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Hungary,1.2601351359999995,16.222214532515608,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Hungary,1.7711174479999992,22.800290526727725,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Hungary,0.8564337539999998,11.025208085520518,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Hungary,1.8434335409999993,23.73124399456227,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Italy,1.876270036,24.153961091457727,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Italy,2.0778337219999994,26.74876958686707,Moderate,TP,Stay cautious!,🟡
+2026,Italy,1.9887931159999996,25.602514894515416,Moderate,TP,Stay cautious!,🟡
+2027,Italy,2.1128310209999994,27.199303562325234,Moderate,TP,Stay cautious!,🟡
+2028,Italy,1.9509952549999996,25.11592818449116,Moderate,TP,Stay cautious!,🟡
+2029,Italy,1.8742874170000001,24.128438058383413,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Italy,1.972462756,25.392287756373616,Moderate,TP,Stay cautious!,🟡
+2031,Italy,1.949027255,25.09059334754556,Moderate,TP,Stay cautious!,🟡
+2032,Italy,1.859361007,23.936284520002676,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Italy,1.8553956249999997,23.885236600085474,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Italy,1.857824601999999,23.916505775003976,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Italy,1.9114620539999998,24.607001761080124,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Italy,1.892921690999999,24.368324386325355,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Italy,1.8241365819999993,23.482826662341196,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Italy,1.865296519999999,24.012694710065432,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Italy,1.7888178689999998,23.028154998223467,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Italy,1.8446940439999997,23.747470944752543,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Italy,1.7369221430000008,22.36008093502027,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Italy,1.9573368580000001,25.197566130618593,Moderate,TP,Stay cautious!,🟡
+2043,Italy,1.7426909589999997,22.43434516913063,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Italy,1.8284184949999998,23.53794941014114,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Italy,1.9555344849999994,25.174363475095124,Moderate,TP,Stay cautious!,🟡
+2046,Italy,1.8176118119999987,23.398830735482655,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Italy,1.7564156249999998,22.6110281850061,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Italy,1.8624528040000001,23.976086437108325,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Italy,1.7093066100000007,22.004575332519742,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Italy,1.8715120570000006,24.092709759061588,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Lithuania,2.0477694329999987,26.361740186612682,Moderate,TP,Stay cautious!,🟡
+2025,Lithuania,1.7039740889999988,21.935927695302222,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Lithuania,1.6622886989999992,21.399295297607082,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Lithuania,1.995017096999999,25.682638646439976,Moderate,TP,Stay cautious!,🟡
+2028,Lithuania,1.8396685069999996,23.68277523313714,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Lithuania,3.0814064199999978,39.668155088337194,Moderate,TP,Stay cautious!,🟡
+2030,Lithuania,3.0490401839999985,39.25149182024622,Moderate,TP,Stay cautious!,🟡
+2031,Lithuania,1.4660618289999996,18.873189730637126,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Lithuania,1.5096429039999992,19.43422602588066,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Lithuania,1.503371149,19.353487260490525,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Lithuania,1.5203061489999994,19.571498166828864,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Lithuania,1.5203061489999994,19.571498166828864,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Lithuania,1.451155659,18.6812967497258,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Lithuania,1.5277585839999994,19.66743628957924,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Lithuania,1.621453508999999,20.873607858433864,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Lithuania,1.6795219389999991,21.621145564601246,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Lithuania,1.8578358039999987,23.916649982749636,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Lithuania,1.622714480999999,20.88984084624533,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Lithuania,1.5664417689999994,20.165420123172613,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Lithuania,1.5841262489999992,20.393079379914404,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Lithuania,1.6236807109999993,20.90227950452885,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Lithuania,1.9439035359999985,25.024633700482475,Moderate,TP,Stay cautious!,🟡
+2046,Lithuania,1.9419899629999993,24.99999952368446,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Lithuania,1.9093646829999997,24.58000148044016,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Lithuania,2.0843234429999993,26.832314314182863,Moderate,TP,Stay cautious!,🟡
+2049,Lithuania,2.0704119529999994,26.65322623957898,Moderate,TP,Stay cautious!,🟡
+2050,Lithuania,1.8882912429999994,24.308714810580888,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Luxembourg,1.7076762500000005,21.98358706790458,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Luxembourg,1.1537961759999993,14.853271335073806,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Luxembourg,1.3066057029999991,16.820448393143103,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Luxembourg,1.3009142959999993,16.747180675492654,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Luxembourg,1.2603681659999995,16.225214419229754,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Luxembourg,1.2632567859999995,16.26240075901523,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Luxembourg,1.7794914689999997,22.90809258801538,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Luxembourg,1.5626951990000004,20.117189056071354,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Luxembourg,1.3776051390000001,17.73445201829052,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Luxembourg,1.5113676719999989,19.45642964175921,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Luxembourg,1.3032150790000003,16.7767995587001,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Luxembourg,1.4266761630000002,18.366162583226487,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Luxembourg,1.449571007,18.660896902146767,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Luxembourg,1.6659793370000004,21.446806330104693,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Luxembourg,1.629174743,20.973006336283913,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Luxembourg,1.0377647900000002,13.359553730966692,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Luxembourg,1.7709465830000009,22.798090914474336,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Luxembourg,1.5975965940000003,20.566488421670556,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Luxembourg,1.4686730130000003,18.906804527829703,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Luxembourg,1.2798513100000002,16.476028584081277,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Luxembourg,1.4023902310000003,18.053520242122772,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Luxembourg,1.4234998619999997,18.3252728129393,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Luxembourg,1.7688432910000005,22.771014410475857,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Luxembourg,1.34766635,17.34903822882713,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Luxembourg,1.7616030910000007,22.67780847223725,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Luxembourg,1.4873747480000004,19.147559307720435,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Luxembourg,1.7177768790000008,22.11361643211346,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Latvia,1.5389714629999998,19.811784084881996,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,Latvia,1.4933679229999999,19.22471180335635,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Latvia,1.4048140969999994,18.084723621130895,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Latvia,1.3114301809999995,16.8825557932842,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Latvia,1.4404294189999993,18.543213649400865,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Latvia,1.2905410319999993,16.613641573849495,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Latvia,1.2513161449999997,16.108684197652916,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Latvia,1.4149957789999994,18.2157964124429,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Latvia,1.3142619119999999,16.919009778629135,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Latvia,2.172797762999999,27.971278984443774,Moderate,TP,Stay cautious!,🟡
+2034,Latvia,2.37164385,30.531102760570338,Moderate,TP,Stay cautious!,🟡
+2035,Latvia,2.464058563,31.720793657536856,Moderate,TP,Stay cautious!,🟡
+2036,Latvia,2.3369313519999992,30.084235140242725,Moderate,TP,Stay cautious!,🟡
+2037,Latvia,2.5941310330000005,33.39526765070882,Moderate,TP,Stay cautious!,🟡
+2038,Latvia,2.169039262999999,27.922894337766913,Moderate,TP,Stay cautious!,🟡
+2039,Latvia,1.813425155,23.344934255583187,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Latvia,2.452839811,31.576370256798437,Moderate,TP,Stay cautious!,🟡
+2041,Latvia,1.5249221829999997,19.63092218549014,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Latvia,2.383741447,30.686839878166204,Moderate,TP,Stay cautious!,🟡
+2043,Latvia,3.175420836999999,40.87843960319052,Moderate,TP,Stay cautious!,🟡
+2044,Latvia,3.296857819999999,42.44174558056425,Moderate,TP,Stay cautious!,🟡
+2045,Latvia,2.4920694439999993,32.081388730117034,Moderate,TP,Stay cautious!,🟡
+2046,Latvia,2.2685342769999997,29.203732730343614,Moderate,TP,Stay cautious!,🟡
+2047,Latvia,2.931688253999999,37.74077433457432,Moderate,TP,Stay cautious!,🟡
+2048,Latvia,4.413966843,56.82272878593607,High,TP,Increased alert!,🟠
+2049,Latvia,4.348613997999999,55.981415944469326,High,TP,Increased alert!,🟠
+2050,Latvia,3.3874627199999985,43.60813804396519,Moderate,TP,Stay cautious!,🟡
+2024,Malta,2.296757290000003,29.567058661476153,Moderate,TP,Stay cautious!,🟡
+2025,Malta,2.315606870000002,29.809716708119016,Moderate,TP,Stay cautious!,🟡
+2026,Malta,2.2859583060000026,29.428039099068513,Moderate,TP,Stay cautious!,🟡
+2027,Malta,2.286398980000003,29.433712068548278,Moderate,TP,Stay cautious!,🟡
+2028,Malta,2.3307253740000022,30.004343148008,Moderate,TP,Stay cautious!,🟡
+2029,Malta,2.3351656760000012,30.061504899613293,Moderate,TP,Stay cautious!,🟡
+2030,Malta,2.3241321740000025,29.91946629488311,Moderate,TP,Stay cautious!,🟡
+2031,Malta,2.3103923560000026,29.742588221360595,Moderate,TP,Stay cautious!,🟡
+2032,Malta,2.2962156060000023,29.560085350594008,Moderate,TP,Stay cautious!,🟡
+2033,Malta,2.322671084000001,29.900657109459893,Moderate,TP,Stay cautious!,🟡
+2034,Malta,2.576293334000001,33.165635945602205,Moderate,TP,Stay cautious!,🟡
+2035,Malta,2.615546944000002,33.67096308425895,Moderate,TP,Stay cautious!,🟡
+2036,Malta,2.006292488000001,25.827791183270783,Moderate,TP,Stay cautious!,🟡
+2037,Malta,1.959112253000001,25.220421487752265,Moderate,TP,Stay cautious!,🟡
+2038,Malta,1.8400338030000005,23.687477832017677,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Malta,1.9200570480000017,24.71764849458547,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Malta,1.964764698000001,25.293187632274122,Moderate,TP,Stay cautious!,🟡
+2041,Malta,1.9320662010000016,24.872247037832345,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Malta,1.9154450810000008,24.658276832012533,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Malta,1.8301245430000008,23.5599120361073,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Malta,1.9447590030000013,25.035646463164092,Moderate,TP,Stay cautious!,🟡
+2045,Malta,1.9952014160000011,25.68501145731957,Moderate,TP,Stay cautious!,🟡
+2046,Malta,1.8316764230000013,23.579889996858906,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Malta,1.925139408000002,24.783075710997508,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Malta,1.863730927000001,23.992540216478986,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Malta,1.821334460000001,23.446753845282426,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Malta,1.8475773500000006,23.78458887532892,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Netherlands,3.4633489539999993,44.585051339090306,Moderate,TP,Stay cautious!,🟡
+2025,Netherlands,3.541130827,45.58636793958774,Moderate,TP,Stay cautious!,🟡
+2026,Netherlands,3.469838317,44.6685914577315,Moderate,TP,Stay cautious!,🟡
+2027,Netherlands,3.6895076340000004,47.49648085211561,Moderate,TP,Stay cautious!,🟡
+2028,Netherlands,2.965159099000001,38.17165766816514,Moderate,TP,Stay cautious!,🟡
+2029,Netherlands,3.708215086000001,47.73730922919274,Moderate,TP,Stay cautious!,🟡
+2030,Netherlands,2.9553288920000007,38.04510955257237,Moderate,TP,Stay cautious!,🟡
+2031,Netherlands,2.9115172570000016,37.48110516789481,Moderate,TP,Stay cautious!,🟡
+2032,Netherlands,3.6564407490000015,47.07079785426291,Moderate,TP,Stay cautious!,🟡
+2033,Netherlands,3.5631053360000005,45.869254424585094,Moderate,TP,Stay cautious!,🟡
+2034,Netherlands,3.672225999000001,47.27400757727899,Moderate,TP,Stay cautious!,🟡
+2035,Netherlands,2.895904608000001,37.28011740534195,Moderate,TP,Stay cautious!,🟡
+2036,Netherlands,2.7824206820000006,35.81919425434735,Moderate,TP,Stay cautious!,🟡
+2037,Netherlands,2.798921194,36.031611826013524,Moderate,TP,Stay cautious!,🟡
+2038,Netherlands,2.7124339710000003,34.91822783587969,Moderate,TP,Stay cautious!,🟡
+2039,Netherlands,2.565508490000001,33.02679841296815,Moderate,TP,Stay cautious!,🟡
+2040,Netherlands,2.7358916960000013,35.22020834298839,Moderate,TP,Stay cautious!,🟡
+2041,Netherlands,2.2193866770000015,28.57103637248391,Moderate,TP,Stay cautious!,🟡
+2042,Netherlands,2.4795402140000014,31.920095031385348,Moderate,TP,Stay cautious!,🟡
+2043,Netherlands,1.4654967620000008,18.86591540121217,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Netherlands,0.9622550460000002,12.387487139480639,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Netherlands,0.894405154,11.514028831250418,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Netherlands,0.8103556309999997,10.432026310640111,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Netherlands,1.8996011900000012,24.454312200371795,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Netherlands,1.7759119760000006,22.862012368755767,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Netherlands,1.7527026220000008,22.56322923907951,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Netherlands,1.7256189849999999,22.214570942692802,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Poland,3.203412486999997,41.23878710755458,Moderate,TP,Stay cautious!,🟡
+2025,Poland,3.1295230889999974,40.28757986652863,Moderate,TP,Stay cautious!,🟡
+2026,Poland,3.282440918999998,42.25615115165369,Moderate,TP,Stay cautious!,🟡
+2027,Poland,3.2855596339999984,42.29629959474558,Moderate,TP,Stay cautious!,🟡
+2028,Poland,3.3840699279999984,43.56446130000668,Moderate,TP,Stay cautious!,🟡
+2029,Poland,3.5284866189999993,45.42359408390361,Moderate,TP,Stay cautious!,🟡
+2030,Poland,3.3643992239999982,43.31123260160966,Moderate,TP,Stay cautious!,🟡
+2031,Poland,3.216286267999999,41.404516346634104,Moderate,TP,Stay cautious!,🟡
+2032,Poland,3.3224183709999977,42.77079659267037,Moderate,TP,Stay cautious!,🟡
+2033,Poland,2.8728792579999993,36.983703031426515,Moderate,TP,Stay cautious!,🟡
+2034,Poland,2.8728792579999993,36.983703031426515,Moderate,TP,Stay cautious!,🟡
+2035,Poland,3.4527109789999986,44.44810450877706,Moderate,TP,Stay cautious!,🟡
+2036,Poland,4.636940466000001,59.69315580924723,High,TP,Increased alert!,🟠
+2037,Poland,2.9267426799999994,37.67710801806394,Moderate,TP,Stay cautious!,🟡
+2038,Poland,4.630424033000001,59.6092672078641,High,TP,Increased alert!,🟠
+2039,Poland,3.4984833579999988,45.0373503210624,Moderate,TP,Stay cautious!,🟡
+2040,Poland,2.0492226619999996,26.380448174295434,Moderate,TP,Stay cautious!,🟡
+2041,Poland,2.1717006060000004,27.957154851466797,Moderate,TP,Stay cautious!,🟡
+2042,Poland,2.210185694,28.452588504575203,Moderate,TP,Stay cautious!,🟡
+2043,Poland,2.1476486339999994,27.647524369332476,Moderate,TP,Stay cautious!,🟡
+2044,Poland,2.2205197790000004,28.585623239563546,Moderate,TP,Stay cautious!,🟡
+2045,Poland,2.334981628000001,30.05913557742317,Moderate,TP,Stay cautious!,🟡
+2046,Poland,2.831232418000001,36.447566903022164,Moderate,TP,Stay cautious!,🟡
+2047,Poland,2.256566098000001,29.049661661491573,Moderate,TP,Stay cautious!,🟡
+2048,Poland,2.821939808,36.327939484755326,Moderate,TP,Stay cautious!,🟡
+2049,Poland,2.4578801980000007,31.641257138296293,Moderate,TP,Stay cautious!,🟡
+2050,Poland,2.033688022000001,26.180464652238182,Moderate,TP,Stay cautious!,🟡
+2024,Romania,2.1944229389999994,28.24966836852918,Moderate,TP,Stay cautious!,🟡
+2025,Romania,1.5056411199999993,19.382709488720323,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Romania,1.070616055999999,13.782460980746542,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Romania,2.3429180049999996,30.161303675611094,Moderate,TP,Stay cautious!,🟡
+2028,Romania,2.765662951999999,35.603465414343006,Moderate,TP,Stay cautious!,🟡
+2029,Romania,2.740511592999999,35.27968209156585,Moderate,TP,Stay cautious!,🟡
+2030,Romania,1.8576843929999993,23.914700809478926,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Romania,1.1626745069999989,14.967565577062688,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Romania,0.9097103819999991,11.711059042528529,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Romania,0.7904444769999992,10.175702204954701,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Romania,0.5898724400000002,7.593659596599367,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Romania,0.7190512739999997,9.256629462561595,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Romania,1.2129513969999994,15.614799728628872,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Romania,1.197190289999999,15.411900807934117,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Romania,1.110492701999999,14.295808706532975,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Romania,1.2383904099999987,15.94228613432611,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Romania,0.9743451969999994,12.543128401794029,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Romania,0.7389472959999998,9.512758768067803,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Romania,1.049624389999999,13.512227019706577,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Romania,1.0169595659999988,13.091719911019092,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Romania,1.132463685999999,14.578649812820856,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Romania,1.053743986999999,13.56526020988778,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Romania,1.2919056959999988,16.63120942950271,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Romania,1.2786266299999989,16.46026279743972,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Romania,1.2251480919999986,15.771812573700156,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Romania,1.1384996739999989,14.656353457020877,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Romania,1.4390280759999996,18.525173610574715,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Sweden,3.2794197589999987,42.21725857239222,Moderate,TP,Stay cautious!,🟡
+2025,Sweden,3.2668207779999983,42.05506694164231,Moderate,TP,Stay cautious!,🟡
+2026,Sweden,3.052861773,39.300688636398746,Moderate,TP,Stay cautious!,🟡
+2027,Sweden,3.082671068,39.68443539874046,Moderate,TP,Stay cautious!,🟡
+2028,Sweden,1.9523639580000003,25.133548035777736,Moderate,TP,Stay cautious!,🟡
+2029,Sweden,1.9813257069999997,25.506384005581893,Moderate,TP,Stay cautious!,🟡
+2030,Sweden,2.4211074310000003,31.167866865946785,Moderate,TP,Stay cautious!,🟡
+2031,Sweden,2.4899178370000015,32.05369024814754,Moderate,TP,Stay cautious!,🟡
+2032,Sweden,2.6623109570000008,34.272974590497384,Moderate,TP,Stay cautious!,🟡
+2033,Sweden,1.730779977,22.281010419724097,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Sweden,2.128690916000002,27.403474219743686,Moderate,TP,Stay cautious!,🟡
+2035,Sweden,1.6005279570000002,20.604225008882644,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Sweden,1.2217309730000006,15.727822658716065,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Sweden,1.5740712630000004,20.263637595971147,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Sweden,1.253287539,16.134062726893546,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Sweden,0.960391818000001,12.363501073640967,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Sweden,1.644754648000001,21.17357257246434,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Sweden,1.5145558090000009,19.49747178152309,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Sweden,1.8341324240000014,23.611507062343286,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Sweden,1.7652349360000008,22.724562639354488,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Sweden,1.739349946000001,22.39133499657569,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Sweden,1.585108476,20.405723973861864,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Sweden,1.9123039,24.617839175278963,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Sweden,1.496650285,19.26696693855272,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Sweden,1.3401432990000006,17.25219103857384,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Sweden,1.5991802700000008,20.586875704818265,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Sweden,1.5972184110000007,20.561619923377574,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Slovenia,2.1881539180000003,28.16896479899485,Moderate,TP,Stay cautious!,🟡
+2025,Slovenia,1.9035581559999994,24.50525177781553,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Slovenia,0.8768673019999994,11.288257174341775,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Slovenia,0.8095128899999997,10.421177374754757,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Slovenia,1.283260553999999,16.519917121097418,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Slovenia,1.3195096649999996,16.986566164089407,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Slovenia,2.0529397920000005,26.428300248713953,Moderate,TP,Stay cautious!,🟡
+2031,Slovenia,2.120675378,27.30028705091169,Moderate,TP,Stay cautious!,🟡
+2032,Slovenia,2.8271394450000007,36.394876454049715,Moderate,TP,Stay cautious!,🟡
+2033,Slovenia,1.871342051,24.090521205052546,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Slovenia,1.5857370899999992,20.413816368776345,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Slovenia,1.3188475549999996,16.97804256201113,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Slovenia,1.4003073279999996,18.02670621372921,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Slovenia,1.4626051110000002,18.82869004217324,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Slovenia,1.4339247450000001,18.459476426243185,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Slovenia,1.3953283650000001,17.962610067508074,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Slovenia,1.550417721,19.959136259712977,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Slovenia,2.0245657630000005,26.063030229300878,Moderate,TP,Stay cautious!,🟡
+2042,Slovenia,2.728693423,35.12754214748789,Moderate,TP,Stay cautious!,🟡
+2043,Slovenia,1.6629536700000005,21.407855730462057,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Slovenia,2.2990205360000004,29.596194316139634,Moderate,TP,Stay cautious!,🟡
+2045,Slovenia,2.2800719650000003,29.352261919474355,Moderate,TP,Stay cautious!,🟡
+2046,Slovenia,2.171369366,27.952890668849996,Moderate,TP,Stay cautious!,🟡
+2047,Slovenia,1.7540763670000001,22.58091399801235,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Slovenia,1.6845859380000001,21.68633641264888,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Slovenia,1.459024856,18.78260001338833,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Slovenia,1.5086335319999997,19.42123198368683,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Slovakia,3.3659923169999995,43.33174111349697,Moderate,TP,Stay cautious!,🟡
+2025,Slovakia,2.548506774000002,32.80792864535865,Moderate,TP,Stay cautious!,🟡
+2026,Slovakia,1.5204101310000002,19.572836767954524,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Slovakia,1.5785290360000002,20.32102425862131,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Slovakia,2.0535439620000013,26.436077966415912,Moderate,TP,Stay cautious!,🟡
+2029,Slovakia,1.841487863000001,23.706196517489804,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Slovakia,1.0054203629999996,12.94317121869834,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Slovakia,2.1539756440000004,27.728974454039417,Moderate,TP,Stay cautious!,🟡
+2032,Slovakia,1.212273909999999,15.606078172390164,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Slovakia,0.9341910739999993,12.026208605605582,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Slovakia,0.8974336099999987,11.553015334785433,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Slovakia,1.089629454999999,14.027227933717462,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Slovakia,1.103427510999999,14.204855727887358,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Slovakia,0.9746669149999992,12.547270003964995,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Slovakia,0.872991817,11.238366533813252,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Slovakia,2.392089354000002,30.79430576367543,Moderate,TP,Stay cautious!,🟡
+2040,Slovakia,1.2590976960000004,16.208859159933887,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Slovakia,1.515872510000001,19.51442219063951,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Slovakia,2.343097004000002,30.16360800004122,Moderate,TP,Stay cautious!,🟡
+2043,Slovakia,1.7761416229999998,22.864968704782203,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Slovakia,0.8466602030000004,10.899389324867794,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Slovakia,1.2769452230000005,16.438617384744518,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Slovakia,1.4475655610000002,18.635080008135986,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Slovakia,2.1055158820000015,27.105132904906842,Moderate,TP,Stay cautious!,🟡
+2048,Slovakia,2.1520682420000017,27.70441971894811,Moderate,TP,Stay cautious!,🟡
+2049,Slovakia,2.0353144680000015,26.2014025303941,Moderate,TP,Stay cautious!,🟡
+2050,Slovakia,2.0711045710000016,26.662142583123515,Moderate,TP,Stay cautious!,🟡
+2024,United Kingdom,1.5605827900000009,20.08999518535112,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,United Kingdom,1.6161146850000006,20.80487908022184,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,United Kingdom,1.6304636150000007,20.989598491753313,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,United Kingdom,1.4404851290000011,18.543930826111374,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,United Kingdom,1.1843762510000004,15.246940651084717,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,United Kingdom,1.2245075720000005,15.76356690817152,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,United Kingdom,1.1544370860000008,14.86152202122566,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,United Kingdom,1.0660105750000008,13.723172814999057,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,United Kingdom,1.3246581910000008,17.05284516140661,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,United Kingdom,1.3934689610000006,17.9386732295223,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,United Kingdom,1.5486323600000003,19.9361526063471,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,United Kingdom,1.531342565,19.713574284625565,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,United Kingdom,1.483439604,19.096900653453414,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,United Kingdom,1.3247886710000003,17.054524881693524,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,United Kingdom,1.436437738000001,18.49182717212757,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,United Kingdom,1.457271525000001,18.760028694792467,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,United Kingdom,1.097784142,14.132206422278179,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,United Kingdom,1.2057134660000002,15.521623000118437,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,United Kingdom,1.1100296110000003,14.289847154207798,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,United Kingdom,1.1763431810000002,15.14352778593093,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,United Kingdom,1.1092272310000002,14.279517801327508,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,United Kingdom,1.1799875260000001,15.190442870457623,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,United Kingdom,1.2519262060000003,16.1165377525116,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,United Kingdom,1.197864867,15.42058490259991,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,United Kingdom,1.1689143860000002,15.047893990185326,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,United Kingdom,1.1843012550000003,15.245975198121517,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,United Kingdom,1.1253487750000002,14.487056769087381,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,France,1.1628607650000007,14.969963349450829,Low,TP,"Low risk, maintain hygiene.",🟢
+2025,France,1.1088823070000007,14.275077459204228,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,France,0.6255225719999999,8.052597747671202,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,France,0.5755603719999999,7.409414724071698,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,France,1.2733612369999996,16.392479325331227,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,France,1.3525469309999993,17.411867864922055,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,France,1.3481282099999994,17.35498393400583,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,France,0.4868904270000002,6.267931696352711,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,France,1.1378058219999998,14.647421227709717,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,France,1.1545937769999997,14.863539166010117,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,France,1.4289728839999993,18.395729174712528,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,France,1.1102654989999994,14.292883833078433,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,France,1.5270573639999998,19.65840920911024,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,France,1.4982483249999996,19.287539135113974,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,France,0.5609358619999999,7.221147662964277,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,France,0.4707128370000002,6.059671226422384,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,France,0.7263254850000002,9.350273237761266,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,France,0.87392164,11.250336510486667,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,France,1.0500281920000005,13.517425321448624,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,France,1.0924823840000015,14.063954809242086,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,France,1.0174538110000007,13.098082521022258,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,France,1.3273035520000005,17.086899932543428,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,France,1.7827768570000004,22.950386678098244,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,France,1.2184205370000007,15.68520611589144,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,France,1.2617680570000012,16.243235765889644,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,France,1.0405219940000008,13.395048300969634,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,France,1.2687416820000004,16.33300997945407,Low,TP,"Low risk, maintain hygiene.",🟢
+2024,Croatia,2.0935604000000017,26.951225289522622,Moderate,TP,Stay cautious!,🟡
+2025,Croatia,1.923077197000001,24.756528058846865,Low,TP,"Low risk, maintain hygiene.",🟢
+2026,Croatia,1.052300918,13.546683015875468,Low,TP,"Low risk, maintain hygiene.",🟢
+2027,Croatia,1.1698636100000002,15.060113723551616,Low,TP,"Low risk, maintain hygiene.",🟢
+2028,Croatia,0.8371100340000001,10.776446248435883,Low,TP,"Low risk, maintain hygiene.",🟢
+2029,Croatia,1.1262335970000001,14.498447430213337,Low,TP,"Low risk, maintain hygiene.",🟢
+2030,Croatia,1.2060105460000001,15.52544742763866,Low,TP,"Low risk, maintain hygiene.",🟢
+2031,Croatia,1.2836736459999998,16.525235016658165,Low,TP,"Low risk, maintain hygiene.",🟢
+2032,Croatia,1.1955286360000001,15.390509683366032,Low,TP,"Low risk, maintain hygiene.",🟢
+2033,Croatia,1.2325295750000003,15.866837303487664,Low,TP,"Low risk, maintain hygiene.",🟢
+2034,Croatia,1.2731870030000003,16.39023634261763,Low,TP,"Low risk, maintain hygiene.",🟢
+2035,Croatia,1.307405765,16.830747905498995,Low,TP,"Low risk, maintain hygiene.",🟢
+2036,Croatia,1.1942338230000002,15.373841047070275,Low,TP,"Low risk, maintain hygiene.",🟢
+2037,Croatia,1.33556216,17.193216236952814,Low,TP,"Low risk, maintain hygiene.",🟢
+2038,Croatia,1.306053407,16.813338469817044,Low,TP,"Low risk, maintain hygiene.",🟢
+2039,Croatia,1.2644574070000003,16.27785682470044,Low,TP,"Low risk, maintain hygiene.",🟢
+2040,Croatia,1.3893966630000003,17.8862489379451,Low,TP,"Low risk, maintain hygiene.",🟢
+2041,Croatia,1.3010999799999998,16.749571058553336,Low,TP,"Low risk, maintain hygiene.",🟢
+2042,Croatia,1.9015093840000008,24.47887713119018,Low,TP,"Low risk, maintain hygiene.",🟢
+2043,Croatia,1.4928879560000001,19.218532999654993,Low,TP,"Low risk, maintain hygiene.",🟢
+2044,Croatia,1.234452764,15.891595270830436,Low,TP,"Low risk, maintain hygiene.",🟢
+2045,Croatia,1.3247615880000003,17.054176231597488,Low,TP,"Low risk, maintain hygiene.",🟢
+2046,Croatia,1.4199210070000003,18.27920080690426,Low,TP,"Low risk, maintain hygiene.",🟢
+2047,Croatia,1.3783656970000002,17.74424298013893,Low,TP,"Low risk, maintain hygiene.",🟢
+2048,Croatia,1.1771192640000003,15.153518607201894,Low,TP,"Low risk, maintain hygiene.",🟢
+2049,Croatia,1.3794713970000003,17.75847709051025,Low,TP,"Low risk, maintain hygiene.",🟢
+2050,Croatia,1.1155399140000002,14.3607834489364,Low,TP,"Low risk, maintain hygiene.",🟢

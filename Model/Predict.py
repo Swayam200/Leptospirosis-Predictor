@@ -81,7 +81,7 @@ def main():
         print("Failed to load data.")
         return
 
-    model = joblib.load('trained_random_forest_model.pkl')
+    model = joblib.load('trained_model.pkl')
     historical_max = data['Leptospirosis_Rate'].max()
     
     print(f"\nHistorical Max Rate: {historical_max:.5f}")

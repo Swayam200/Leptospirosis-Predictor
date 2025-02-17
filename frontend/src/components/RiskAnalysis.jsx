@@ -446,44 +446,45 @@ const MedicalRiskAnalysisDashboard = () => {
             ) }
           </div>
 
-          {/* Right Panel - Chat */}
           <div style={styles.chatPanel}>
-            <div style={styles.chatHeader}>
-              <h3 style={styles.chatTitle}>Analytics Assistant</h3>
-              <div style={styles.chatStatus}>
-                <div style={styles.statusIndicator}></div>
-                Online
-              </div>
-            </div>
-            
-            <div style={styles.chatMessages}>
-              {chatHistory.map((msg, idx) => (
-                <div
-                  key={idx}
-                  style={{
-                    ...styles.messageBubble,
-                    ...(msg.sender === "user" ? styles.userMessage : styles.botMessage)
-                  }}
-                >
-                  <div style={styles.messageContent}>{msg.text}</div>
-                </div>
-              ))}
-            </div>
+  <div style={styles.chatHeader}>
+    <h3 style={styles.chatTitle}>Analytics Assistant</h3>
+    <div style={styles.chatStatus}>
+      <div style={styles.statusIndicator}></div>
+      Online
+    </div>
+  </div>
+  
+  {/* Changed messages container to have scroll */}
+  <div style={styles.chatMessages}>
+    {chatHistory.map((msg, idx) => (
+      <div
+        key={idx}
+        style={{
+          ...styles.messageBubble,
+          ...(msg.sender === "user" ? styles.userMessage : styles.botMessage)
+        }}
+      >
+        <div style={styles.messageContent}>{msg.text}</div>
+      </div>
+    ))}
+  </div>
 
-            <div style={styles.chatControls}>
-              <input
-                type="text"
-                placeholder="Ask about medical risks..."
-                value={chatInput}
-                onChange={(e) => setChatInput(e.target.value)}
-                style={styles.chatInput}
-                onKeyPress={(e) => e.key === 'Enter' && handleSendChat()}
-              />
-              <button onClick={handleSendChat} style={styles.sendButton}>
-                Send
-              </button>
-            </div>
-          </div>
+  {/* Input stays fixed at bottom */}
+  <div style={styles.chatControls}>
+    <input
+      type="text"
+      placeholder="Ask about medical risks..."
+      value={chatInput}
+      onChange={(e) => setChatInput(e.target.value)}
+      style={styles.chatInput}
+      onKeyPress={(e) => e.key === 'Enter' && handleSendChat()}
+    />
+    <button onClick={handleSendChat} style={styles.sendButton}>
+      Send
+    </button>
+  </div>
+</div>
         </div>
       </div>
     </div>
@@ -532,7 +533,7 @@ const styles = {
   },
   dashboardGrid: {
     display: "grid",
-    gridTemplateColumns: "300px 1fr 350px",
+    gridTemplateColumns: "300px 1fr 350px", 
     gap: "2rem",
     height: "calc(100vh - 100px)",
   },
@@ -556,6 +557,13 @@ const styles = {
     boxShadow: "0 2px 6px rgba(9, 93, 126, 0.05)",
     display: "flex",
     flexDirection: "column",
+    position: "fixed",
+    right: "2rem",
+    top: "calc(100px + 2rem)", // Below header
+    bottom: "2rem",
+    width: "350px",
+    zIndex: 1000,
+    overflow: "hidden",
   },
   filterCard: {
     display: "flex",
@@ -665,12 +673,14 @@ const styles = {
   },
   chatMessages: {
     flex: 1,
-    padding: "1.5rem",
     overflowY: "auto",
+    padding: "1.5rem",
     display: "flex",
     flexDirection: "column",
-    gap: "1rem",
+    gap: "1.5rem", // Increased from 1rem to 1.5rem
+    paddingBottom: "80px", // Space for input
   },
+  
   messageBubble: {
     maxWidth: "85%",
     padding: "1rem",
@@ -691,10 +701,13 @@ const styles = {
     borderBottomLeftRadius: 4,
   },
   chatControls: {
-    display: "flex",
-    gap: "0.5rem",
+    position: "sticky",
+    bottom: 0,
+    backgroundColor: "#ffffff",
     padding: "1.5rem",
     borderTop: "1px solid #e2e8f0",
+    display: "flex",
+    gap: "0.5rem",
   },
   chatInput: {
     flex: 1,
