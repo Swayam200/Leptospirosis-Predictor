@@ -53,6 +53,6 @@ A final combined processed file was generated for training the model.
 A machine learning model was trained using the processed dataset.
 The trained model was saved as Trainedmodel.pkl for future predictions.
 ### 🌐 Step 4: Web Application Development
-A web-based interface was built to allow users to interact with the model effortlessly.
-The website loads the trained model and provides predictions based on user inputs.
+A web-based interface using React for frontend and node.js for backend was built to allow users to interact with the model effortlessly.
+The website loads the predicted data using postgresql and displays it.
 This structured workflow ensures efficiency and accuracy, making the application user-friendly and data-driven. 🚀
