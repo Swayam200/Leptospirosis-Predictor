@@ -18,34 +18,35 @@ const AboutPage = () => {
     },
     {
       id: 2,
-      name: 'Tanishq Panwar',
+      name: 'Swayam Prakash Panda',
       role: 'Team Member',
-      image: tanq
+      image: panda
     },
     {
       id: 3,
-      name: 'Vandit A. Pareekh',
-      role: 'Team Member',
-      image: vand
-    },
-    {
-      id: 4,
-      name: 'Aadvik Bannerjee',
-      role: 'Team Member',
-      image: aand
-    },
-    {
-      id: 5,
       name: 'Madhuram S. Patil',
       role: 'Team Member',
       image: patil
     },
     {
-      id: 6,
-      name: 'Swayam Prakash Panda',
+      id: 4,
+      name: 'Tanishq Panwar',
       role: 'Team Member',
-      image: panda
-    }
+      image: tanq
+    },
+    {
+      id: 5,
+      name: 'Vandit A. Pareekh',
+      role: 'Team Member',
+      image: vand
+    },
+    {
+      id: 6,
+      name: 'Aadvik Bannerjee',
+      role: 'Team Member',
+      image: aand
+    },
+       
   ];
 
   return (
