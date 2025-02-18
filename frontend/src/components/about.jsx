@@ -42,7 +42,7 @@ const AboutPage = () => {
     },
     {
       id: 6,
-      name: 'Aadvik Bannerjee',
+      name: 'Advik Banerjee',
       role: 'Team Member',
       image: aand
     },
